@@ -1,0 +1,10 @@
+- encontrar cada digito do numero binario
+	- digito = 1011 % 10
+	- numero = numero / 10
+Se +
+	- fazer a soma de cada digito dos dois números
+	- Se a soma for 2 ( 1 + 1 ): 
+		- armazenar o vai um em uma variável
+		
+
+senao -
